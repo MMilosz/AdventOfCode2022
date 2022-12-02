@@ -3,6 +3,7 @@
 
 ## Day 1 / Lua
 Find largest sum of numbers in input file. Each list of numbers is divided by a blank separator line.
+- [Code](https://github.com/MMilosz/AdventOfCode2022/blob/main/day1.lua)
 
 ## Day 2 / Haskell
 Find top three sums from Day 1.
